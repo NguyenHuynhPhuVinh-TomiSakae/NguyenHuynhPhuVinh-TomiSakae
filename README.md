@@ -39,16 +39,16 @@ Tôi là một lập trình viên **VIẾT MỌI THỨ BẰNG AI**. Tôi thích 
 
 ## 🔥 Thống Kê GitHub
 
-![Thống Kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Thống Kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=TomiSakae&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### Ngôn Ngữ Sử Dụng Nhiều Nhất
-![Ngôn Ngữ](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Ngôn Ngữ](https://github-readme-stats.vercel.app/api/top-langs/?username=TomiSakae&layout=compact&theme=radical)
 
 ---
 
 ## 📈 Biểu Đồ Đóng Góp Của Tôi
 
-![Biểu đồ đóng góp](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+![Biểu đồ đóng góp](https://github-readme-activity-graph.cyclic.app/graph?username=TomiSakae&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
 ---
 
