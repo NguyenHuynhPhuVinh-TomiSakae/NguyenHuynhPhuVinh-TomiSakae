@@ -6,10 +6,10 @@
 
 ## 🔥 Thống Kê GitHub
 
-![Thống Kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=TomiSakae&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Thống Kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=NguyenHuynhPhuVinh-TomiSakae&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### Ngôn Ngữ Sử Dụng Nhiều Nhất
-![Ngôn Ngữ](https://github-readme-stats.vercel.app/api/top-langs/?username=TomiSakae&layout=compact&theme=radical)
+![Ngôn Ngữ](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHuynhPhuVinh-TomiSakae&layout=compact&theme=radical)
 
 ---
 
