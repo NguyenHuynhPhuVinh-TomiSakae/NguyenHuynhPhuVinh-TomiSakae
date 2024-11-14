@@ -29,3 +29,7 @@
 
 - 🌍 **Công Nghệ**: Cursor
 - 🌟 **Các Tính Năng Nổi Bật**: Rất nhiều...
+
+<p align="center">
+	<img src="https://pagespeed-insights.herokuapp.com?url=https://showai.io.vn">
+</p>
