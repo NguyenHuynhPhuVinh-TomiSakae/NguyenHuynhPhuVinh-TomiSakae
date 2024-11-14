@@ -6,10 +6,15 @@
 
 ## 🔥 Thống Kê GitHub
 
-![Thống Kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=NguyenHuynhPhuVinh-TomiSakae&show_icons=true&count_private=true&hide=prs&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=NguyenHuynhPhuVinh-TomiSakae&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NguyenHuynhPhuVinh-TomiSakae&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHuynhPhuVinh-TomiSakae&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Ngôn Ngữ Sử Dụng Nhiều Nhất
-![Ngôn Ngữ](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHuynhPhuVinh-TomiSakae&layout=compact&theme=radical)
+### Cúp thành tựu
+![](https://github-profile-trophy.vercel.app/?username=NguyenHuynhPhuVinh-TomiSakae&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Xếp hạng Repo
+![](https://github-contributor-stats.vercel.app/api?username=NguyenHuynhPhuVinh-TomiSakae&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
