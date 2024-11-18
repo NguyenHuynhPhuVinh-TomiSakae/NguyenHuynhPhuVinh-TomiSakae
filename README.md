@@ -18,8 +18,52 @@
 ---
 
 ## Công nghệ sử dụng:
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
-
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
 ---
 
 ## 📂 Dự Án
