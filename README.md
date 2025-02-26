@@ -69,14 +69,6 @@
 
 ---
 
-## 📂 Dự Án
-
-### 🚀 ShowAI(https://github.com/TomiSakae/ShowAI)
-> Dự án Cơ Sở Ngành viết bằng Cursor và 98% do AI viết!
-
-- 🌍 **Công Nghệ**: Cursor
-- 🌟 **Các Tính Năng Nổi Bật**: Rất nhiều...
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenHuynhPhuVinh-TomiSakae/NguyenHuynhPhuVinh-TomiSakae/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenHuynhPhuVinh-TomiSakae/NguyenHuynhPhuVinh-TomiSakae/output/github-snake.svg" />
