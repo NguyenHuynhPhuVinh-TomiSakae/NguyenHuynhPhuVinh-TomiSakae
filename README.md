@@ -12,9 +12,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=NguyenHuynhPhuVinh-TomiSakae&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Xếp hạng Repo
-![](https://github-contributor-stats.vercel.app/api?username=NguyenHuynhPhuVinh-TomiSakae&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 ## Công nghệ sử dụng:
